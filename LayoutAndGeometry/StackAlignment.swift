@@ -34,7 +34,7 @@ struct StackAlignment: View {
         VStack(alignment: .leading){
             Text("first line")
                 .alignmentGuide(.leading) { dimension in
-                    print(dimension)
+//                    print(dimension)
                     return dimension[.trailing]
                 }
             Text("second line")

@@ -12,6 +12,7 @@
 		408917DC2BD22CEE007833DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 408917DB2BD22CEE007833DE /* Assets.xcassets */; };
 		408917DF2BD22CEE007833DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 408917DE2BD22CEE007833DE /* Preview Assets.xcassets */; };
 		408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917E52BDF22A7007833DE /* StackAlignment.swift */; };
+		408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		408917DB2BD22CEE007833DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		408917DE2BD22CEE007833DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		408917E52BDF22A7007833DE /* StackAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackAlignment.swift; sourceTree = "<group>"; };
+		408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignmentGuide.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				408917D72BD22CE8007833DE /* LayoutAndGeometryApp.swift */,
 				408917D92BD22CE8007833DE /* ContentView.swift */,
 				408917E52BDF22A7007833DE /* StackAlignment.swift */,
+				408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */,
 				408917DB2BD22CEE007833DE /* Assets.xcassets */,
 				408917DD2BD22CEE007833DE /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				408917DA2BD22CE8007833DE /* ContentView.swift in Sources */,
+				408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */,
 				408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */,
 				408917D82BD22CE8007833DE /* LayoutAndGeometryApp.swift in Sources */,
 			);
