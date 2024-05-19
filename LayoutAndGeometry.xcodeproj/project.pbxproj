@@ -14,6 +14,7 @@
 		408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917E52BDF22A7007833DE /* StackAlignment.swift */; };
 		408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */; };
 		40A24DC22BFA93BF002F5107 /* GeometryReaderViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */; };
+		40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		408917E52BDF22A7007833DE /* StackAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackAlignment.swift; sourceTree = "<group>"; };
 		408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignmentGuide.swift; sourceTree = "<group>"; };
 		40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderViewExample.swift; sourceTree = "<group>"; };
+		40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateSpaceExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				408917E52BDF22A7007833DE /* StackAlignment.swift */,
 				408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */,
 				40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */,
+				40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */,
 				408917DB2BD22CEE007833DE /* Assets.xcassets */,
 				408917DD2BD22CEE007833DE /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				408917DA2BD22CE8007833DE /* ContentView.swift in Sources */,
+				40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */,
 				408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */,
 				408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */,
 				408917D82BD22CE8007833DE /* LayoutAndGeometryApp.swift in Sources */,
