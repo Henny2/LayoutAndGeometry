@@ -22,7 +22,9 @@ struct ScrollViewAndGeometryReader: View {
                                 .degrees(proxy.frame(in: .global).minY/5),
                                 axis: /*@START_MENU_TOKEN@*/(x: 0.0, y: 1.0, z: 0.0)/*@END_MENU_TOKEN@*/
                             )
-                    }.frame(height: 40)
+                    }
+//                    .background(.gray)
+                    .frame(height: 40)
             }
         }
     }

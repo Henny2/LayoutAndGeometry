@@ -16,6 +16,7 @@
 		40A24DC22BFA93BF002F5107 /* GeometryReaderViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */; };
 		40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */; };
 		40A24DC62BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */; };
+		40A24DC82BFAD1B5002F5107 /* VisualEffectExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC72BFAD1B5002F5107 /* VisualEffectExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderViewExample.swift; sourceTree = "<group>"; };
 		40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateSpaceExamples.swift; sourceTree = "<group>"; };
 		40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewAndGeometryReader.swift; sourceTree = "<group>"; };
+		40A24DC72BFAD1B5002F5107 /* VisualEffectExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		408917D62BD22CE8007833DE /* LayoutAndGeometry */ = {
 			isa = PBXGroup;
 			children = (
+				40A24DC72BFAD1B5002F5107 /* VisualEffectExample.swift */,
 				40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */,
 				408917D72BD22CE8007833DE /* LayoutAndGeometryApp.swift */,
 				408917D92BD22CE8007833DE /* ContentView.swift */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				408917DA2BD22CE8007833DE /* ContentView.swift in Sources */,
+				40A24DC82BFAD1B5002F5107 /* VisualEffectExample.swift in Sources */,
 				40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */,
 				408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */,
 				408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */,
