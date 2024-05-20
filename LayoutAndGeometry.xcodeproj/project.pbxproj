@@ -15,6 +15,7 @@
 		408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */; };
 		40A24DC22BFA93BF002F5107 /* GeometryReaderViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */; };
 		40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */; };
+		40A24DC62BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		408917E72BDF33FF007833DE /* CustomAlignmentGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignmentGuide.swift; sourceTree = "<group>"; };
 		40A24DC12BFA93BF002F5107 /* GeometryReaderViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderViewExample.swift; sourceTree = "<group>"; };
 		40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateSpaceExamples.swift; sourceTree = "<group>"; };
+		40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewAndGeometryReader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		408917D62BD22CE8007833DE /* LayoutAndGeometry */ = {
 			isa = PBXGroup;
 			children = (
+				40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */,
 				408917D72BD22CE8007833DE /* LayoutAndGeometryApp.swift */,
 				408917D92BD22CE8007833DE /* ContentView.swift */,
 				408917E52BDF22A7007833DE /* StackAlignment.swift */,
@@ -154,6 +157,7 @@
 				408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */,
 				408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */,
 				408917D82BD22CE8007833DE /* LayoutAndGeometryApp.swift in Sources */,
+				40A24DC62BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift in Sources */,
 				40A24DC22BFA93BF002F5107 /* GeometryReaderViewExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +292,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LayoutAndGeometry/Preview Content\"";
+				DEVELOPMENT_TEAM = 79BXDJ3TV4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -316,6 +321,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LayoutAndGeometry/Preview Content\"";
+				DEVELOPMENT_TEAM = 79BXDJ3TV4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
