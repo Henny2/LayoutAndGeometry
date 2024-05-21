@@ -21,6 +21,7 @@ struct ChallengeView: View {
                                 .background(colors[index % 7])
                                 .rotation3DEffect(.degrees(proxy.frame(in: .global).minY - fullView.size.height / 2) / 5, axis: (x: 0, y: 1, z: 0))
                                 .opacity(proxy.frame(in: .global).minY < 230 ? proxy.frame(in: .global).minY/300 : 1)
+                                .scaleEffect(min(max(0.8, proxy.frame(in: .global).minY/(fullView.size.height/2)), 1.5))
                         }
                         .frame(height: 40)
                     }
