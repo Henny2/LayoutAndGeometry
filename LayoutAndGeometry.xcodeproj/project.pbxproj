@@ -17,6 +17,7 @@
 		40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */; };
 		40A24DC62BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */; };
 		40A24DC82BFAD1B5002F5107 /* VisualEffectExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC72BFAD1B5002F5107 /* VisualEffectExample.swift */; };
+		40A24DCA2BFC46D9002F5107 /* ChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A24DC92BFC46D9002F5107 /* ChallengeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateSpaceExamples.swift; sourceTree = "<group>"; };
 		40A24DC52BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewAndGeometryReader.swift; sourceTree = "<group>"; };
 		40A24DC72BFAD1B5002F5107 /* VisualEffectExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectExample.swift; sourceTree = "<group>"; };
+		40A24DC92BFC46D9002F5107 /* ChallengeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				40A24DC32BFA98FB002F5107 /* CoordinateSpaceExamples.swift */,
 				408917DB2BD22CEE007833DE /* Assets.xcassets */,
 				408917DD2BD22CEE007833DE /* Preview Content */,
+				40A24DC92BFC46D9002F5107 /* ChallengeView.swift */,
 			);
 			path = LayoutAndGeometry;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				40A24DC42BFA98FB002F5107 /* CoordinateSpaceExamples.swift in Sources */,
 				408917E82BDF33FF007833DE /* CustomAlignmentGuide.swift in Sources */,
 				408917E62BDF22A7007833DE /* StackAlignment.swift in Sources */,
+				40A24DCA2BFC46D9002F5107 /* ChallengeView.swift in Sources */,
 				408917D82BD22CE8007833DE /* LayoutAndGeometryApp.swift in Sources */,
 				40A24DC62BFACCAF002F5107 /* ScrollViewAndGeometryReader.swift in Sources */,
 				40A24DC22BFA93BF002F5107 /* GeometryReaderViewExample.swift in Sources */,
